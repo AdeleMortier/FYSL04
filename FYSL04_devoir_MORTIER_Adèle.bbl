@@ -6,6 +6,16 @@ Serge \bgroup\sc Brunier\egroup{}.
 \newblock Science et Vie, 2013.
 \newblock [En ligne; dernier accès 28 décembre 2017].
 
+\bibitem[Larousse, a]{astre}
+\bgroup\sc Larousse\egroup{}.
+\newblock Astre -- définition du dictionnaire larousse en ligne.
+\newblock [En ligne; dernier accès 28 décembre 2017].
+
+\bibitem[Larousse, b]{soleil}
+\bgroup\sc Larousse\egroup{}.
+\newblock Soleil -- définition du dictionnaire larousse en ligne.
+\newblock [En ligne; dernier accès 28 décembre 2017].
+
 \bibitem[Mortureux, 1982]{Mortureux1982}
 Marie-Françoise \bgroup\sc Mortureux\egroup{}.
 \newblock Paraphrase et métalangage dans le dialogue de vulgarisation.
@@ -55,7 +65,13 @@ Sandrine \bgroup\sc Reboul-Touré\egroup{}.
 \newblock September 2017.
 \newblock [En ligne; dernier accès 26 décembre 2017].
 
-\bibitem[Wikipedia, 2017b]{SB}
+\bibitem[Wikipedia, 2017b]{oort}
+\bgroup\sc Wikipedia\egroup{}.
+\newblock Nuage d'oort --- {W}ikipedia{,} the free encyclopedia.
+\newblock 2017.
+\newblock [En ligne; dernier accès 28 décembre 2017].
+
+\bibitem[Wikipedia, 2017c]{SB}
 \bgroup\sc Wikipedia\egroup{}.
 \newblock Serge {B}runier --- {W}ikipedia{,} the free encyclopedia.
 \newblock 2017.

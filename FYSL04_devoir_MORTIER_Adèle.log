@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  28 DEC 2017 16:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  28 DEC 2017 16:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -678,27 +678,34 @@ Overfull \hbox (8.94035pt too wide) in paragraph at lines 145--147
 i pro-po-sait sans doutes des conte-nus suppl^^Sementaires (vid^^Seos...)
  []
 
-[4] (./FYSL04_devoir_MORTIER_Adèle.bbl [5])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 200.
+[4] [5] (./FYSL04_devoir_MORTIER_Adèle.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
  [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 200.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
 
 (./FYSL04_devoir_MORTIER_Adèle.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 200.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 200.
-Package rerunfilecheck Info: File `FYSL04_devoir_MORTIER_Adèle.out' has not ch
-anged.
-(rerunfilecheck)             Checksum: 12A4202E0636ACA66D29CD4611598625;1441.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 200.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
+
+
+Package rerunfilecheck Warning: File `FYSL04_devoir_MORTIER_Adèle.out' has cha
+nged.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `FYSL04_devoir_MORTIER_Adèle.out':
+(rerunfilecheck)             Before: 6D9354955E08B67D6625D23583EB2CEB;1522
+(rerunfilecheck)             After:  305200F0ECF3C61A01C73557E3F640AE;1587.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
  ) 
 Here is how much of TeX's memory you used:
- 6977 strings out of 493029
- 100734 string characters out of 6136234
- 203815 words of memory out of 5000000
- 10407 multiletter control sequences out of 15000+600000
+ 6987 strings out of 493029
+ 100855 string characters out of 6136234
+ 203931 words of memory out of 5000000
+ 10411 multiletter control sequences out of 15000+600000
  10024 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,7n,30p,1054b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,7n,30p,1054b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
@@ -713,10 +720,10 @@ mr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on FYSL04_devoir_MORTIER_Adèle.pdf (6 pages, 218383 bytes).
+Output written on FYSL04_devoir_MORTIER_Adèle.pdf (6 pages, 223371 bytes).
 PDF statistics:
- 241 PDF objects out of 1000 (max. 8388607)
- 215 compressed objects within 3 object streams
- 45 named destinations out of 1000 (max. 500000)
- 153 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 257 PDF objects out of 1000 (max. 8388607)
+ 231 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
