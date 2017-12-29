@@ -16,6 +16,11 @@ Serge \bgroup\sc Brunier\egroup{}.
 \newblock Soleil -- définition du dictionnaire larousse en ligne.
 \newblock [En ligne; dernier accès 28 décembre 2017].
 
+\bibitem[Larousse, c]{vestige}
+\bgroup\sc Larousse\egroup{}.
+\newblock Vestige -- définition du dictionnaire larousse en ligne.
+\newblock [En ligne; dernier accès 28 décembre 2017].
+
 \bibitem[Mortureux, 1982]{Mortureux1982}
 Marie-Françoise \bgroup\sc Mortureux\egroup{}.
 \newblock Paraphrase et métalangage dans le dialogue de vulgarisation.
@@ -28,7 +33,7 @@ Marie-Françoise \bgroup\sc Mortureux\egroup{}.
 \newblock Annales littéraires de l'Université de Besançon.
 
 \bibitem[Mortureux \textit{et~al.}, 1984]{Mortureux1984}
-Marie-Françoise \bgroup\sc Mortureux\egroup{}, D.~\bgroup\sc Jacohi\egroup{},
+Marie-Françoise \bgroup\sc Mortureux\egroup{}, D.~\bgroup\sc Jacobi\egroup{},
   \andname{} B.~\bgroup\sc Schiel\egroup{}.
 \newblock {\em Vulgariser la science, le procès de l'ignorance},
   \chaptername{} La vulgarisation : parole médiane ou dédoublée ?,
@@ -62,7 +67,7 @@ Sandrine \bgroup\sc Reboul-Touré\egroup{}.
 \bibitem[Wikipedia, 2017a]{ISON}
 \bgroup\sc Wikipedia\egroup{}.
 \newblock C/2012 s1 (ison) --- {W}ikipedia{,} the free encyclopedia.
-\newblock September 2017.
+\newblock 2017.
 \newblock [En ligne; dernier accès 26 décembre 2017].
 
 \bibitem[Wikipedia, 2017b]{oort}
