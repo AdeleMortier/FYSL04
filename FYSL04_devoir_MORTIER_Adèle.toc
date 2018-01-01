@@ -5,20 +5,21 @@
 \contentsline {subsubsection}{\numberline {1.1.2}Paraphrases au m\IeC {\'e}talangage ``estomp\IeC {\'e}''}{2}{subsubsection.1.1.2}
 \contentsline {subsection}{\numberline {1.2}Diaphore}{3}{subsection.1.2}
 \contentsline {subsubsection}{\numberline {1.2.1}Anaphores lexicales/grammaticales}{3}{subsubsection.1.2.1}
-\contentsline {subsubsection}{\numberline {1.2.2}Cataphores}{4}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2}Anaphores pronominales}{4}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Cataphores}{4}{subsubsection.1.2.3}
 \contentsline {subsection}{\numberline {1.3}Typographie}{4}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Caract\IeC {\`e}res}{4}{subsubsection.1.3.1}
-\contentsline {subsubsection}{\numberline {1.3.2}Mise en forme}{4}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.1}Caract\IeC {\`e}res}{5}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Mise en forme}{5}{subsubsection.1.3.2}
 \contentsline {subsection}{\numberline {1.4}Equivalence distributionnelle (paraphrase \textit {in absentia})}{5}{subsection.1.4}
-\contentsline {section}{\numberline {2}Analyse}{5}{section.2}
-\contentsline {subsection}{\numberline {2.1}Relations lexicales}{5}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}Synonymie}{5}{subsubsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.2}Hyponymie/Hyperonymie}{5}{subsubsection.2.1.2}
+\contentsline {section}{\numberline {2}Analyse}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Relations lexicales}{6}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Synonymie}{6}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Hyponymie/Hyperonymie}{6}{subsubsection.2.1.2}
 \contentsline {subsubsection}{\numberline {2.1.3}M\IeC {\'e}tonymie et m\IeC {\'e}taphore}{6}{subsubsection.2.1.3}
-\contentsline {subsection}{\numberline {2.2}Distance s\IeC {\'e}mantique}{6}{subsection.2.2}
-\contentsline {section}{\numberline {3}Interpr\IeC {\'e}tation}{6}{section.3}
-\contentsline {subsection}{\numberline {3.1}Analyse du discours (th\IeC {\'e}orie du discours)}{6}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Th\IeC {\'e}matisation}{6}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Conceptualisation}{7}{subsubsection.3.1.2}
-\contentsline {subsubsection}{\numberline {3.1.3}Fonctionnalit\IeC {\'e} du paradigme}{8}{subsubsection.3.1.3}
-\contentsline {subsection}{\numberline {3.2}Lexique et vocabulaires (th\IeC {\'e}orie du lexique)}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {2.2}Distance s\IeC {\'e}mantique}{7}{subsection.2.2}
+\contentsline {section}{\numberline {3}Interpr\IeC {\'e}tation}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Analyse du discours (th\IeC {\'e}orie du discours)}{7}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Th\IeC {\'e}matisation}{7}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Conceptualisation}{8}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Fonctionnalit\IeC {\'e} du paradigme}{9}{subsubsection.3.1.3}
+\contentsline {subsection}{\numberline {3.2}Lexique et vocabulaires (th\IeC {\'e}orie du lexique)}{9}{subsection.3.2}
