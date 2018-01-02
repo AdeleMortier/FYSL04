@@ -4,45 +4,45 @@ The top-level auxiliary file: FYSL04_devoir_MORTIER_Adèle.aux
 The style file: frcomplet.bst
 Database file #1: bibliography.bib
 Warning--empty booktitle in Sagot2008
-You've used 17 entries,
+You've used 19 entries,
             2051 wiz_defined-function locations,
-            589 strings with 6098 characters,
-and the built_in function-call counts, 5118 in all, are:
-= -- 537
-> -- 142
-< -- 18
-+ -- 47
-- -- 42
-* -- 307
-:= -- 952
-add.period$ -- 61
-call.type$ -- 17
-change.case$ -- 104
-chr.to.int$ -- 12
-cite$ -- 18
-duplicate$ -- 220
-empty$ -- 372
-format.name$ -- 63
-if$ -- 1019
+            602 strings with 6329 characters,
+and the built_in function-call counts, 5795 in all, are:
+= -- 602
+> -- 167
+< -- 19
++ -- 55
+- -- 50
+* -- 355
+:= -- 1076
+add.period$ -- 67
+call.type$ -- 19
+change.case$ -- 117
+chr.to.int$ -- 14
+cite$ -- 20
+duplicate$ -- 249
+empty$ -- 424
+format.name$ -- 73
+if$ -- 1154
 int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 10
-newline$ -- 97
-num.names$ -- 51
-pop$ -- 69
+missing$ -- 13
+newline$ -- 107
+num.names$ -- 57
+pop$ -- 82
 preamble$ -- 1
-purify$ -- 106
+purify$ -- 120
 quote$ -- 0
-skip$ -- 167
+skip$ -- 187
 stack$ -- 0
-substring$ -- 298
-swap$ -- 18
+substring$ -- 337
+swap$ -- 20
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 98
+type$ -- 108
 warning$ -- 1
-while$ -- 40
+while$ -- 45
 width$ -- 0
-write$ -- 223
+write$ -- 248
 (There was 1 warning)
