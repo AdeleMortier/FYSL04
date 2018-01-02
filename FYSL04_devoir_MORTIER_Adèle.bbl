@@ -12,6 +12,11 @@ Serge \bgroup\sc Brunier\egroup{}.
 \newblock Science et Vie, 2013.
 \newblock [En ligne; dernier accès 28 décembre 2017].
 
+\bibitem[Fellbaum, 1998]{WordNet1998}
+Christiane \bgroup\sc Fellbaum\egroup{}.
+\newblock {\em WordNet: An Electronic Lexical Database}.
+\newblock Bradford Books, 1998.
+
 \bibitem[Larousse, a]{astre}
 \bgroup\sc Larousse\egroup{}.
 \newblock Astre -- définition du dictionnaire larousse en ligne.
@@ -63,6 +68,12 @@ Sandrine \bgroup\sc Reboul-Tour{\'e}\egroup{}.
 Sandrine \bgroup\sc Reboul-Touré\egroup{}.
 \newblock Le transgénique et le citoyen dans la presse écrite.
 \newblock {\em Les Carnets du Cediscor}, 6:99--111, 2000.
+
+\bibitem[Sagot \andname{} Fišer, 2008]{Sagot2008}
+Benoît \bgroup\sc Sagot\egroup{} \andname{} Darja \bgroup\sc Fišer\egroup{}.
+\newblock Building a free french wordnet from multilingual resources.
+\newblock 5 2008.
+\newblock <inria-00614708>.
 
 \bibitem[Wikipedia, 2016]{comete}
 \bgroup\sc Wikipedia\egroup{}.

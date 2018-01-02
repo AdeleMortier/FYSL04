@@ -17,9 +17,9 @@
 \contentsline {subsubsection}{\numberline {2.1.2}Hyponymie/Hyperonymie}{6}{subsubsection.2.1.2}
 \contentsline {subsubsection}{\numberline {2.1.3}M\IeC {\'e}tonymie et m\IeC {\'e}taphore}{6}{subsubsection.2.1.3}
 \contentsline {subsection}{\numberline {2.2}Distance s\IeC {\'e}mantique}{7}{subsection.2.2}
-\contentsline {section}{\numberline {3}Interpr\IeC {\'e}tation}{7}{section.3}
-\contentsline {subsection}{\numberline {3.1}Analyse du discours (th\IeC {\'e}orie du discours)}{7}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Th\IeC {\'e}matisation}{7}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Conceptualisation}{8}{subsubsection.3.1.2}
-\contentsline {subsubsection}{\numberline {3.1.3}Fonctionnalit\IeC {\'e} du paradigme}{9}{subsubsection.3.1.3}
-\contentsline {subsection}{\numberline {3.2}Lexique et vocabulaires (th\IeC {\'e}orie du lexique)}{9}{subsection.3.2}
+\contentsline {section}{\numberline {3}Interpr\IeC {\'e}tation}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Analyse du discours (th\IeC {\'e}orie du discours)}{8}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Th\IeC {\'e}matisation}{8}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Conceptualisation}{9}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Fonctionnalit\IeC {\'e} du paradigme}{10}{subsubsection.3.1.3}
+\contentsline {subsection}{\numberline {3.2}Lexique et vocabulaires (th\IeC {\'e}orie du lexique)}{10}{subsection.3.2}

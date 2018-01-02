@@ -3,44 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: FYSL04_devoir_MORTIER_Adèle.aux
 The style file: frcomplet.bst
 Database file #1: bibliography.bib
-You've used 15 entries,
+Warning--empty booktitle in Sagot2008
+You've used 17 entries,
             2051 wiz_defined-function locations,
-            576 strings with 5871 characters,
-and the built_in function-call counts, 4491 in all, are:
-= -- 479
-> -- 122
-< -- 16
-+ -- 41
-- -- 36
-* -- 269
-:= -- 840
-add.period$ -- 54
-call.type$ -- 15
-change.case$ -- 92
-chr.to.int$ -- 10
-cite$ -- 15
-duplicate$ -- 189
-empty$ -- 318
-format.name$ -- 53
-if$ -- 892
+            589 strings with 6098 characters,
+and the built_in function-call counts, 5118 in all, are:
+= -- 537
+> -- 142
+< -- 18
++ -- 47
+- -- 42
+* -- 307
+:= -- 952
+add.period$ -- 61
+call.type$ -- 17
+change.case$ -- 104
+chr.to.int$ -- 12
+cite$ -- 18
+duplicate$ -- 220
+empty$ -- 372
+format.name$ -- 63
+if$ -- 1019
 int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 7
-newline$ -- 86
-num.names$ -- 45
-pop$ -- 52
+missing$ -- 10
+newline$ -- 97
+num.names$ -- 51
+pop$ -- 69
 preamble$ -- 1
-purify$ -- 93
+purify$ -- 106
 quote$ -- 0
-skip$ -- 146
+skip$ -- 167
 stack$ -- 0
-substring$ -- 274
-swap$ -- 16
+substring$ -- 298
+swap$ -- 18
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 88
-warning$ -- 0
-while$ -- 36
+type$ -- 98
+warning$ -- 1
+while$ -- 40
 width$ -- 0
-write$ -- 198
+write$ -- 223
+(There was 1 warning)
